@@ -16,19 +16,13 @@ and pushing the limits of **technology, creativity, and strategy**.
 ---
 
 ## 🔹 Communities & Roles  
-- 💻 **Google Developer Groups (Executive)** → App Development, UI/UX, AI/ML  
-- 🛠️ **Team .EXE (Technical Club Executive)** → Coding, Blockchain, UI/UX, Web Development  
-- 📢 **E-Cell (Manager, PR & Marketing)** → Outreach, campaigns & visibility for entrepreneurship  
+- 💻 **Google Developer Groups (Executive)** → App Development, UI/UX, AI/ML, Blockchain , DSA
+- 🛠️ **Team .EXE (Technical Club Executive)** →  App Development, UI/UX, AI/ML, Blockchain , DSA
+- 📢 **E-Cell (Manager, PR & Marketing)** → Outreach, campaigns & visibility for entrepreneurship 
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-**Languages:** Python, C, HTML, CSS, JavaScript  
-**Libraries & Frameworks:** Pandas, Scikit-learn  
-**Design & Prototyping:** Figma  
-**Interests:** ML Models, Data Analytics, App Development, Automation, Quant Finance  
 
----
 
 ## 🌱 What Fascinates Me  
 - Building **autonomous systems & intelligent trading strategies**  
@@ -38,11 +32,11 @@ and pushing the limits of **technology, creativity, and strategy**.
 ---
 
 ✨ Outside of tech, I enjoy **dance, marketing, and community building**, which fuel my creativity and interpersonal skills.  
-💡 Always open to **collaborations** in App Development, Quant Finance, and Robotics!  
+💡 Always open to **collaborations** in App Development, Ai/Ml and Quant projects
 
 ---
 
-⚡ *"Curiosity is the spark, innovation is the journey."*
+
 
 
 
