@@ -1,7 +1,7 @@
 # 💫 About Me  
 
-Hi there! 👋 I’m **Shlok**, an **Innovative & Driven Tech Enthusiast** currently pursuing  
-**B.Tech + M.Tech in CSE at NIT Hamirpur (2024–29)**.  
+Hi there! 👋 I’m **Shlok**, an **Innovative & Driven Tech Enthusiast** currently working in 
+**App Development | Flutter | Dart | AI/ML | Python | DSA in C++**.  
 
 🚀 I’m passionate about **building impactful products**, exploring the **world of finance & trading**,  
 and pushing the limits of **technology, creativity, and strategy**.  
