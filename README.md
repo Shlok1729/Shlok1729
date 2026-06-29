@@ -2,7 +2,7 @@
 
 **Software Engineer | SaaS Founder | Open Source Contributor**
 
-I am a Full-Stack & Mobile Developer currently pursuing my **Degree in Computer Science and Engineering at NIT Hamirpur**. I specialize in architecting scalable mobile apps, building **SaaS products**, and engineering autonomous systems. When I'm not shipping products for clients or launching my own startups, I'm diving deep into **DSA, Machine Learning**, and the mathematics behind **High-Frequency Trading (HFT) / Quantitative Analysis**.
+I am a Full-Stack & Mobile Developer currently pursuing my degree in **Computer Science and Engineering at NIT Hamirpur**. I specialize in architecting scalable mobile apps, building **SaaS products**, and engineering autonomous systems. When I'm not shipping products for clients or launching my own startups, I'm diving deep into **DSA, Machine Learning**, and the mathematics behind **High-Frequency Trading (HFT) / Quantitative Analysis**.
 
 ---
 
