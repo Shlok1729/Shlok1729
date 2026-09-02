@@ -86,7 +86,7 @@ I am highly active in the global developer community and always looking for the 
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Some Snacks for the Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Shlok1729/Shlok1729/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%"/>
