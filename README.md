@@ -66,6 +66,13 @@ I am highly active in the global developer community and always looking for the 
 </p>
 
 
+### 🐍 Some Snacks for the Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shlok1729/Shlok1729/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%"/>
+</div>
+
+
 
 ### 📊 GitHub Stats
 
@@ -83,11 +90,6 @@ I am highly active in the global developer community and always looking for the 
 
 ---
 
-### 🐍 Some Snacks for the Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shlok1729/Shlok1729/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%"/>
-</div>
 
 
 <div align="center">
