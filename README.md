@@ -81,7 +81,7 @@ I am highly active in the global developer community and always looking for the 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlok1729&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph-beige-ten.vercel.app/graph?username=Shlok1729&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
 </div>
 
 ---
