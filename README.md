@@ -92,39 +92,6 @@ I am highly active in the global developer community and always looking for the 
   <img src="https://raw.githubusercontent.com/Shlok1729/Shlok1729/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%"/>
 </div>
 
-<sub>⚙️ This animated snake eats your contribution graph and needs a one-time GitHub Action to generate it. Add the workflow below at `.github/workflows/snake.yml` in your **`Shlok1729/Shlok1729`** profile repo, then it auto-updates daily.</sub>
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [main]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Shlok1729
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shlok1729&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
