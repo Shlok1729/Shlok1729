@@ -70,8 +70,7 @@ I am highly active in the global developer community and always looking for the 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Shlok1729&rank_icon=github&custom_title=Progress&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=radical" alt="Shlok's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlok1729&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Shlok1729&rank_icon=github&custom_title=Progress&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=radical" alt="Shlok's GitHub Stats" />
 </div>
 
 <div align="center">
