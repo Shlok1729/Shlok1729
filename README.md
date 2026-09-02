@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=200&section=header&text=Shlok%20Goyal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20SaaS%20Founder%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shlok%20Goyal&fontSize=55&fontColor=c77dff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20SaaS%20Founder%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Typing intro animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Developer;Building+SaaS+products+from+scratch;Architecting+Autonomous+AI+Systems;Exploring+Quant+%2F+HFT+%26+Algorithmic+Trading;Always+shipping+%E2%80%94+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Developer;Building+SaaS+products+from+scratch;Architecting+Autonomous+AI+Systems;Exploring+Quant+%2F+HFT+%26+Algorithmic+Trading;Always+shipping+%E2%80%94+always+learning" alt="Typing SVG" />
 </a>
 
 </div>
@@ -94,4 +94,4 @@ I am highly active in the global developer community and always looking for the 
   <img src="https://komarev.com/ghpvc/?username=Shlok1729&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
